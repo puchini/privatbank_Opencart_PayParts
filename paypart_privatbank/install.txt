@@ -1,0 +1,20 @@
+﻿ENGLISH
+-------
+How to install:
+
+1. Copy the contents of upload folder to your opencart installation keeping the folder structure.
+2. Login to the Open Cart admin section and go to Extensions > Payments.
+3. Find "Мгновенная рассрочка (ПриватБанк)","Оплата частями - Деньги в периоде (ПриватБанк)","Оплата частями (ПриватБанк)" in the list of payment methods.
+4. Click on Install and then on Edit to make payment module settings.
+
+RUSSIAN
+-------
+Инструкция по установке:
+
+1. Скопировать содержимое загруженных папок из архива в Вашу инстлляцию opencart согласно стуктуры папок.
+
+2. Залогиниться в Админ часть Вашего opencart магазина  и зайти в Дополнения > Оплаты.
+
+3. Найти: "Мгновенная рассрочка (ПриватБанк)","Оплата частями - Деньги в периоде (ПриватБанк)","Оплата частями (ПриватБанк)" в списке методов оплаты.
+
+4. Нажать "Установить" и тогда отредактировать параметры платежного модуля.
